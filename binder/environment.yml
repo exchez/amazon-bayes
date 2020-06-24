@@ -1,0 +1,5 @@
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
