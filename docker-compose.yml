@@ -1,0 +1,10 @@
+version: '3'
+services:
+  notebook:
+    build:
+      context: ./jupyter/
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/work
+    command: start.sh jupyter lab
