@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exchez/amazon-bayes/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/exchez/amazon-bayes/master) [![NBViewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/exchez/amazon-bayes/blob/master/amazon-bayes.ipynb)
 
 # How a Bayesian Shops on Amazon
-This notebook demonstartes a Bayesian analysis to determine the probability that one product is better than another.
+This notebook demonstrates a Bayesian analysis to determine the probability that one product is better than another.
 
 ### Run with Docker on your machine (must have Docker installed)
 1. `git clone https://github.com/exchez/amazon-bayes.git`
