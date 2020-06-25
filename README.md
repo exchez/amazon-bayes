@@ -13,7 +13,7 @@ The reason I chose to publish this notebook is three-fold:
 1. `git clone https://github.com/exchez/amazon-bayes.git`
 2. `cd amazon-bayes`
 3. `docker-compose up`
-4. `docker-compose down` when you're done
+4. make sure to run `docker-compose down` when you're done
 
 ### Run on Binder
 1. Click the link to binder above
