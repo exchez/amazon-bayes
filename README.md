@@ -7,6 +7,7 @@ This notebook shows one way of using Bayesian analysis to determine the probabil
 1. `git clone https://github.com/exchez/amazon-bayes.git`
 2. `cd amazon-bayes`
 3. `docker-compose up`
+4. `docker-compose down` when you're done
 
 ### Run on Binder
 1. Click the link to binder above
