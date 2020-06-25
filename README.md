@@ -3,8 +3,8 @@
 # How a Bayesian Shops on Amazon
 This notebook uses Bayesian analysis to determine the probability that one product is better than another.
 
-## Motivation
-The reason I chose to publish this notebook are three-fold:
+### Motivation
+The reason I chose to publish this notebook is three-fold:
 1. I wanted to tackle a problem that used the multinomial and dirichlet distributions rather than the typical binomial with a beta prior
 2. I hoped to show that Bayesian analysis can be used to solve very practical problems and give intuitive results
 3. I wanted to help people who are familiar with the basics of Bayes' Rule and probability extend the concept for use with distributions and relative likelihoods
