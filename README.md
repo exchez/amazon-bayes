@@ -10,4 +10,5 @@ This notebook demonstrates a Bayesian analysis to determine the probability that
 
 ### Run on Binder
 1. Click the link to binder above
-2. Replace "tree" at the end of the url with "lab" to run in Jupyter Lab (optional)
+2. Get up and grab a coffee (optional). It may take ~15 minutes to build the image if it's not cached.
+3. Replace "tree" at the end of the url with "lab" to run in Jupyter Lab (optional). I actually think it looks nicer in a notebook.
